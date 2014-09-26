@@ -1,4 +1,3 @@
-```{S}
 # Set working directory
 setwd('~/Assign1/')
 
@@ -29,4 +28,3 @@ summary(cars)
 describe(cars)
 # Correlation btw speed and stopping distance
 cor(cars)
-```

@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-Assign1DanielSam    
+Assign1DanielSam
 
-=======
-# Assign1DanielSam
->>>>>>> 26b82f035517e3f7c1b2fc98c7df3335964924fa
 ================
 # Authors: Sam Dundon and Daniel Jemberu
 # MPPHertie school-E1180: Introduction to Collaborative Social Science Data Analysis
-# Christopher Gandrud                 
+# Prof: Christopher Gandrud                 
 # Date:26.09.2014
 # Data sets: Cars and ChickWeight
 # Install psych package
