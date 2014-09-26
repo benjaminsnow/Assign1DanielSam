@@ -1,4 +1,4 @@
-```{S}
+
 # Set working directory
 setwd('~/Assign1/')
 
@@ -15,4 +15,3 @@ var(ChickWeight)
 source('Assign1DanielSam/Source1.R')
 # Display cars dataset
 cars
-```

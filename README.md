@@ -1,4 +1,4 @@
-Assign1DanielSam
+# Assign1DanielSam
 ================
 # Authors: Sam Dundon and Daniel Jemberu
 # Data sets: Cars and ChickWeight
