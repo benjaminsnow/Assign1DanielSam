@@ -1,5 +1,5 @@
 Assign1DanielSam    
-# MPP-E1180: Introduction to Collaborative Social Science Data Analysis
+# MPPHertie school-E1180: Introduction to Collaborative Social Science Data Analysis
 # Christopher Gandrud                 
 # Date:26.09.2014
 ================
