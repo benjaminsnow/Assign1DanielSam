@@ -2,9 +2,9 @@ Assign1DanielSam
 ================
 # Authors: Sam Dundon and Daniel Jemberu
 # Data sets: Cars and ChickWeight
-# Installed psych package
-# Retrieved summary statistics for Cars and Chickweight data sets
-# Plotted Chicken weight by Diet 
+# Install psych package
+# Retrieve summary statistics for Cars and Chickweight data sets
+# Plot Chicken weight by Diet 
 
 ```{S}
 # Set working directory
