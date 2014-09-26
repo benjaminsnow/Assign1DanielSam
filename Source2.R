@@ -16,3 +16,5 @@ source('~/Assign1/Assign1DanielSam/Source1.R')
 # Display cars dataset
 cars
 ```
+#listing variables under cars
+ls(cars)
