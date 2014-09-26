@@ -1,4 +1,4 @@
-```{S}
+
 # Set working directory
 setwd('~/Assign1/')
 
@@ -12,9 +12,12 @@ describe(ChickWeight)
 var(ChickWeight)
 ?ChickWeight
 # Link to Source1.R
-source('~/Assign1/Assign1DanielSam/Source1.R')
+source('Assign1DanielSam/Source1.R')
 # Display cars dataset
 cars
+<<<<<<< HEAD
 ```
 #listing variables under cars
 ls(cars)
+=======
+>>>>>>> 26b82f035517e3f7c1b2fc98c7df3335964924fa
