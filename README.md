@@ -1,5 +1,7 @@
 Assign1DanielSam
 ================
+install.packages("psych")
+library(psych)
 # Open Source1.R
 source('~/Assign1/Assign1DanielSam/Source1.R')
 # Retrieve statistics of data set
