@@ -1,3 +1,7 @@
+```{S}
+# Set working directory
+setwd('~/Assign1/')
+
 # Load cars dataset
 data(cars)
 # Reference data set helpfile
@@ -25,3 +29,4 @@ summary(cars)
 describe(cars)
 # Correlation btw speed and stopping distance
 cor(cars)
+```

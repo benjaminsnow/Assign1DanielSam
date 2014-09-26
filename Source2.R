@@ -1,3 +1,7 @@
+```{S}
+# Set working directory
+setwd('~/Assign1/')
+
 # Load ChickWeight data set
 data(ChickWeight)
 # Show first 6 data sets
@@ -11,3 +15,4 @@ var(ChickWeight)
 source('~/Assign1/Assign1DanielSam/Source1.R')
 # Display cars dataset
 cars
+```
