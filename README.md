@@ -9,6 +9,7 @@ Assign1DanielSam
 # Install psych package
 # Retrieve summary statistics for Cars and Chickweight data sets
 # Plot Chicken weight by Diet 
+# Generate historgram of log speed (car data set)
 
 ```{S}
 # Set working directory
@@ -28,4 +29,6 @@ source('Assign1DanielSam/Source2.R')
 var(ChickWeight)
 describe(ChickWeight)
 plot(ChickWeight$Diet,ChickWeight$Weight)
+hist(log(cars$speed))
+
 ```

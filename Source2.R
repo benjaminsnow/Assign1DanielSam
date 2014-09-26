@@ -16,3 +16,5 @@ source('Assign1DanielSam/Source1.R')
 cars
 #listing variables under cars
 ls(cars)
+hist(cars$speed)
+hist(log(cars$speed))
