@@ -12,7 +12,7 @@ describe(ChickWeight)
 var(ChickWeight)
 ?ChickWeight
 # Link to Source1.R
-source('~/Assign1/Assign1DanielSam/Source1.R')
+source('Assign1DanielSam/Source1.R')
 # Display cars dataset
 cars
 ```
