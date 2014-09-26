@@ -26,9 +26,12 @@ describe(cars)
 cov(cars)
 # Open Source2.R
 source('Assign1DanielSam/Source2.R')
+# Calculate variance in ChickenWeight
 var(ChickWeight)
+# Descriptive statistics of ChickWeight
 describe(ChickWeight)
 plot(ChickWeight$Diet,ChickWeight$Weight)
+# Generate histogram
 hist(log(cars$speed))
 
 ```
