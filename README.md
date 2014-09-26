@@ -10,6 +10,7 @@ Assign1DanielSam
 # Set working directory
 setwd('~/Assign1/')
 
+# Install psych package
 install.packages("psych")
 library(psych)
 # Open Source1.R
